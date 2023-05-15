@@ -8,3 +8,15 @@
 h1 {
   font-family: 'Great Vibes', cursive;
 }
+
+body {
+  display: flex;
+}
+
+#left {
+  
+}
+
+#right {
+
+}
