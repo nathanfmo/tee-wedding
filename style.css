@@ -17,6 +17,11 @@ body {
   
 }
 
+#left img {
+  width: 400px;
+  height: auto;
+}
+
 #right {
 
 }
