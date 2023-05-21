@@ -13,10 +13,11 @@ body {
 #left, #right {
   width: 50%;
   justify-self: center;
+  align-self: center;
 }
 
 #left img {
-  width: 400px;
+  width: 350px;
   height: auto;
   border-radius: 50%;
   border: 1rem ridge silver;
@@ -24,6 +25,6 @@ body {
 
 a {
  background-color: silver;
- border-radius: 25%;
+ border-radius: 10%;
  font-family: 'Calibri';
 }
