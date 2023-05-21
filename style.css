@@ -24,7 +24,9 @@ body {
 }
 
 a {
+ padding: 7px 10px;
  background-color: silver;
  border-radius: 10%;
  font-family: 'Calibri';
+ font-style: italic;
 }
