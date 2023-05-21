@@ -18,4 +18,6 @@ body {
 #left img {
   width: 400px;
   height: auto;
+  border-radius: 50%;
+  border: 1rem ridge silver;
 }
