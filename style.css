@@ -12,7 +12,7 @@ body {
 
 #left, #right {
   width: 50%;
-  justify-content: center;
+  justify-self: center;
 }
 
 #left img {
@@ -20,4 +20,10 @@ body {
   height: auto;
   border-radius: 50%;
   border: 1rem ridge silver;
+}
+
+a {
+ background-color: silver;
+ border-radius: 25%;
+ font-family: 'Calibri';
 }
